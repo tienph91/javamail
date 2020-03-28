@@ -78,9 +78,9 @@ public class App {
     }
 
     public static void main(String[] args) {
-        final String userName = "example@gmail.com";
-        final String passWord = "examplepassword";
-        final String recipient = "abc@abc.com, abc.abc@gmail.com";
+        final String userName = "tienph8080@gmail.com";
+        final String passWord = "It123456!";
+        final String recipient = "hoangtien.cp@gmail.com";
         final String subject = "Hey my fr";
         final String text = "I'm here";
 
